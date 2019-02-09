@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on La Mansarda</title>
+    <link>/categories/tech/</link>
+    <description>Recent content in Tech on La Mansarda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Feb 2019 18:01:58 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gli smartphone sono tutti uguali?</title>
+      <link>/blog/smartphone-sono-tutti-uguali/</link>
+      <pubDate>Mon, 04 Feb 2019 18:01:58 +0100</pubDate>
+      
+      <guid>/blog/smartphone-sono-tutti-uguali/</guid>
+      <description>La tecnologia corre veloce. Troppo veloce in certi casi.
+Prendiamo gli smartphone. Dopo appena 10 anni dalla loro nascita hanno conquistato il mondo, e ormai tutti sono in grado di fare qualsiasi cosa.
+Certo, c’è chi lo fa meglio e chi peggio. Ma in generale, che sia uno smartphone da 300 euro, o uno da più di mille, le cose che possiamo fare sono le stesse.
+Esiste qualcosa di diverso? Cioè di davvero diverso?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 title: "Gli smartphone sono tutti uguali?"
 date: 2019-02-04T18:01:58+01:00
-draft: true
+draft: false
 description: "Novità smartphone"
 featured_image: "IMG_A43974737EF8-1.jpeg"
 categories: ["Tech"]

@@ -1,7 +1,7 @@
 ---
 title: "Nuvolari contro i Tedeschi"
 date: 2019-02-02T15:53:03+01:00
-draft: true
+draft: false
 description: "Un po' di storia della F1"
 featured_image: "Car.jpg"
 categories: ["Motori"]

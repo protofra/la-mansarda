@@ -1,7 +1,7 @@
 ---
 title: "F1 2019 - L’attesa sta per finire"
 date: 2019-02-04T19:01:26+01:00
-draft: true
+draft: false
 description: "Ci avviciniamo al Mondiale 2019 di F1"
 featured_image: "f1.png"
 categories: [Motori]

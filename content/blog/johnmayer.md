@@ -1,7 +1,7 @@
 ---
 title: "John Mayer"
 date: 2019-02-02T14:47:46+01:00
-draft: true
+draft: false
 description: "L'ultimo album di John Mayer"
 featured_image: "IMG_3354.JPG"
 categories: ["Musica"]

@@ -1,7 +1,7 @@
 ---
 title: "I Hate My Village"
 date: 2019-02-06T22:40:12+01:00
-draft: true
+draft: false
 description: "L'album che stavate aspettando"
 featured_image: "i-hate-my-villa.JPEG"
 categories: ["Musica"]

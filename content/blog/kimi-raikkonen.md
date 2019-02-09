@@ -1,7 +1,7 @@
 ---
 title: "Leave me alone. I know what to do."
 date: 2019-02-05T16:30:22+01:00
-draft: true
+draft: false
 description: "La biografia di Kimi Raikkonen"
 featured_image: "kimi.JPEG"
 categories: [Libri]

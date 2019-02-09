@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://compassionate-dubinsky-9c4206.netlify.com/"
 languageCode = "it-it"
 title = "La Mansarda"
 theme = "uilite"

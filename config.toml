@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "it-it"
+title = "La Mansarda"
+theme = "uilite"

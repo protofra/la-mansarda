@@ -1,0 +1,9 @@
+{
+    "title" : "Argomenti",
+    "skills" : {
+      "Tecnologia" : 80,
+      "Musica" : 60,
+      "Libri" : 75,
+      "Motori" : 40
+    }
+  }

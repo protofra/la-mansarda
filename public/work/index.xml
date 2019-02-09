@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on La Mansarda</title>
+    <link>/work/</link>
+    <description>Recent content in Works on La Mansarda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 02 Feb 2019 15:52:02 +0100</lastBuildDate>
+    
+	<atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Freewrite</title>
+      <link>/work/freewrite/</link>
+      <pubDate>Sat, 02 Feb 2019 15:52:02 +0100</pubDate>
+      
+      <guid>/work/freewrite/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Pocophone F1</title>
+      <link>/work/pocophone/</link>
+      <pubDate>Sat, 02 Feb 2019 15:50:16 +0100</pubDate>
+      
+      <guid>/work/pocophone/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Moto G6 Plus</title>
+      <link>/work/motog6/</link>
+      <pubDate>Sat, 02 Feb 2019 15:47:51 +0100</pubDate>
+      
+      <guid>/work/motog6/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Moto Z3 Play</title>
+      <link>/work/motoz/</link>
+      <pubDate>Sat, 02 Feb 2019 15:47:51 +0100</pubDate>
+      
+      <guid>/work/motoz/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Soundbrenner Pulse</title>
+      <link>/work/soundbrenner/</link>
+      <pubDate>Sat, 02 Feb 2019 15:47:50 +0100</pubDate>
+      
+      <guid>/work/soundbrenner/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Soundcore Spirit</title>
+      <link>/work/spirit/</link>
+      <pubDate>Sat, 02 Feb 2019 15:47:06 +0100</pubDate>
+      
+      <guid>/work/spirit/</guid>
+      <description>Recensione</description>
+    </item>
+    
+    <item>
+      <title>Space NC Anker</title>
+      <link>/work/spacenc/</link>
+      <pubDate>Sat, 02 Feb 2019 15:45:28 +0100</pubDate>
+      
+      <guid>/work/spacenc/</guid>
+      <description>Recensione</description>
+    </item>
+    
+  </channel>
+</rss>

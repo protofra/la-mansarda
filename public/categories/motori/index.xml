@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motori on La Mansarda</title>
+    <link>/categories/motori/</link>
+    <description>Recent content in Motori on La Mansarda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 04 Feb 2019 19:01:26 +0100</lastBuildDate>
+    
+	<atom:link href="/categories/motori/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>F1 2019 - L’attesa sta per finire</title>
+      <link>/blog/mondiale-f1/</link>
+      <pubDate>Mon, 04 Feb 2019 19:01:26 +0100</pubDate>
+      
+      <guid>/blog/mondiale-f1/</guid>
+      <description>Finalmente ci siamo. Quasi. Sta per finire questa lunga, lunghissima, pausa invernale senza F1. Finalmente, direi.
+La pausa invernale, vista da fuori, è come la quiete prima della tempesta. Un periodo fatto di attesa, appunto, ma anche aspettative e sogni. Sarà questo l’anno buono? È questo, è questo.
+Per quanto mi riguarda, da tifoso della Rossa, vivo un misto di aspettative e rassegnazione. Cui ogni tanto si unisce una flebile speranza, che viene brutalmente spenta dai ricordi degli anni passati: Hockenheim, tanto per dirne uno.</description>
+    </item>
+    
+    <item>
+      <title>Nuvolari contro i Tedeschi</title>
+      <link>/blog/nuvolari/</link>
+      <pubDate>Sat, 02 Feb 2019 15:53:03 +0100</pubDate>
+      
+      <guid>/blog/nuvolari/</guid>
+      <description>Gran Premio Germania 1935 - Nuvolari contro tutti Quando corre Nuvolari | Quando passa Nuvolari
+Eifel, Circuito del Nurburgring, 28 Luglio 1935. Si corre il Gran Premio di Germania.
+La falsa estate tedesca è nel pieno del suo svolgimento, con un cielo più che mai grigio. I preparativi sono ormai terminati. Le colline intorno al circuito cominciano a riempirsi di spettatori: più di 300 mila. Tedeschi venuti ad assistere al trionfo.</description>
+    </item>
+    
+  </channel>
+</rss>

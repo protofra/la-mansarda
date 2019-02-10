@@ -1,4 +1,4 @@
-baseURL = "https://la-mansarda.it/"
+baseURL = ""
 languageCode = "en-US"
 title = "La Mansarda"
 theme = "uilite"

@@ -2,3 +2,4 @@ baseURL = ""
 languageCode = "IT-IT"
 title = "La Mansarda"
 theme = "uilite"
+paginate = 10

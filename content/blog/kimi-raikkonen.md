@@ -9,7 +9,7 @@ categories: [Libri]
 
 
 ## La forza del silenzio. 
-Qualsiasi appassionato di F1 conosce Kimi Raikkonen. Il silenzioso finnico, infatti, è una delle icone della F1 moderna. 
+Qualsiasi appassionato di F1 conosce Kimi Raikkonen. Il silenzioso finnico è una delle icone della F1 moderna. 
 
 Nonostante sia - ancora - l’ultimo campione del mondo della Ferrari, e in generale abbia ottenuto grandi successi durante la sua lunghissima carriera, non sono _pole_ e vittorie la ragione del suo successo. 
 

@@ -18,14 +18,14 @@ La F8 Tributo è l’erede della già bellissima e velocissima 488 GTB, da cui r
 3.902 cc e 720 cavalli che permettono di fare da zero a 100 km/h in 2,9 secondi e raggiungere una velocità di 340 km all’ora. 
 
 ### Un bel figlio
-Se la 488 non si era discostata troppo dalle linee della precedente 458, lo stesso non si può dire per questa F8 Tributo. 
-Diciamo che è il figlio molto ben riuscito fra una 488 GTB e una 812 Superfast. 
+Se la 488 non si era discostata troppo dalle linee della precedente 458, lo stesso non si può dire di questa F8 Tributo. 
+Diciamo che è un figlio molto ben riuscito fra una 488 GTB e una 812 Superfast. 
 
 Dalla 488 riprende, come ho già detto, il motore e il tipo di macchina - stiamo parlando di una berlinetta - mentre dalla 812 riprende molte linee del design a partire dai fari posteriori doppi. 
 
 Anche la parte anteriore è molto simile a quella della Superfast, con linee, però, ancora più estremizzate: _aerodynamic stuff._
 
-Sempre parlando di aerodinamica abbiamo uno spoiler soffiato al posteriore - simile alla 488 Pista - e all’anteriore una serie di prese d’aria che aiutano il raffreddamento dei freni senza bisogno di chissà quali ingombri. 
+Sempre parlando di aerodinamica abbiamo uno spoiler soffiato al posteriore - simile a quello sulla 488 Pista - e all’anteriore una serie di prese d’aria che aiutano il raffreddamento dei freni senza bisogno di chissà quali ingombri. 
 
 Queste e altre diavolerie hanno permesso di aumentare il carico aerodinamico del 15% rispetto al modello precedente. 
 E senza bisogno di alettoni grossi quanto tavoli da pranzo. 

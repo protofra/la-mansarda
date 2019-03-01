@@ -22,6 +22,8 @@ Stavolta, insomma, meglio non prendere sotto gamba la situazione. Perché se il 
 
 Quindi, in soldoni, è vero: la Ferrari è andata bene. Anzi, meglio di Mercedes. Però, la Mercedes va messa in _pole_ a prescindere. Anche solo per rendere la delusione finale un po’ meno cocente. 
 
+### I primi degli altri
+
 Per quanto riguarda gli altri, dal 4 in giù - visto che la RedBull sarà almeno terza - è un gran casino. 
 
 Così a sentimento metterei l’Alfa di Kimi in quarta posizione. Ricreando la situazione di qualche anno fa in Lotus. Ma la verità è che è molto difficile da dire chi sarà quarto, quinto e così via. 

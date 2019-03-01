@@ -1,7 +1,7 @@
 ---
 title: "F1: ora si fa sul serio"
 date: 2019-03-01T14:24:03+01:00
-draft: true
+draft: false
 featured_image: "F1-Leclerc-Ferrari-C01-fotocattagni-o3su0efdtmioj6n1fdc9991mi7u588svxuzu00acxs.jpg"
 categories: ["Motori"]
 description: "Comincia il Mondiale di F1"

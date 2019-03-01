@@ -3,3 +3,5 @@ languageCode = "IT-IT"
 title = "La Mansarda"
 theme = "uilite"
 paginate = 10
+enableRobotsTXT = true
+canonifyURLs = true 

@@ -2,6 +2,7 @@
 title: "Fenomenologia Di Matteo Salvini"
 date: 2019-02-15T23:31:04+01:00
 draft: true
+featured_image: "fenomenologia.png"
 ---
 
 Questo breve testo è liberamente ispirato alla _Fenomenologia di Mike Bongiorno_ del Maestro Umberto Eco. 

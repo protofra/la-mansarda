@@ -11,7 +11,7 @@ Sono le 22:59.
 
 Ho appena finito di leggere _Il vecchio e il mare_. Di nuovo. 
 
-Sono molto affezionato a questo libro. Un regalo di mio padre e uno dei primi libri che abbia letto per intero. Quindi, di tanto in tanto mi capita di rileggerlo. 
+ Un regalo di mio padre e uno dei primi libri che abbia letto per intero. Gli sono molto affezionato e di tanto in tanto mi capita di rileggerlo. 
 
 È molto breve. Eppure, nonostante le appena 100 pagine, ad ogni lettura scopro sempre qualcosa in più. Una frase, un elemento, un significato che la volta prima non avevo colto. E che forse non ero pronto a cogliere. 
 

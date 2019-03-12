@@ -2,7 +2,7 @@
 title: "Il Vecchio e Il Mare"
 date: 2019-03-11T13:44:55+01:00
 draft: true
-featured_image: "6D45F0CB-3921-485E-80AA-FCEDC678EE24.JPEG"
+featured_image: "IMG_6007.jpg"
 categories: ["Libri"]
 description: "Il capolavoro di Hernest Hemingway"
 ---

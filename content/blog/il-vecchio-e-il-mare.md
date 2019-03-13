@@ -19,8 +19,7 @@ _**<p style="text-align: right;">“He always thought of the sea as 'la mar' whi
 
 Questa è una delle frasi che fin dalle prime letture, fin da piccolo, mi è rimasta più impressa. 
 _**<p style="text-align: right;">Il vecchio lo pensava sempre al femminile e come qualcosa che concedeva o rifiutava grandi favori e se faceva cose strane o malvagie è perché non poteva evitarle. La luna lo fa reagire come una donna, pensò.</p>**_
-Il mare come una donna. 
-
+ 
 **Il mare.**
 
 Ecco, il mare è stato l'elemento che ha catturato la mia mente da piccolo. La maniera in cui vengono descritte le imbarcazioni, il modo di prendere il largo. I riflessi delle luci dell'alba e del tramonto sull'acqua. I delfini, i pesci volanti e poi ancora i terribili *pescecani* e gli splendidi *marlin*. 

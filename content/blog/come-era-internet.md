@@ -21,8 +21,8 @@ Secondo me è una figata, e sono sicuro che c'è sicuramente qualche altro nerd 
 
 Quindi, insomma, cliccate sui link qua sotto per fare due passettini nel passato del magico *internette*. 
 
-* [Apple](https://web.archive.org/web/20040918012811/http://www.apple.com/) **18/09/2004**
-* [Amazon](https://web.archive.org/web/20000229082444/http://www.amazon.com/exec/obidos/subst/home/home.html) **29/02/2000**
-* [Facebook](https://web.archive.org/web/20060310001001/http://www.facebook.com/) **10/03/2006**
-* [eBay](https://web.archive.org/web/20001205181500/http://www.ebay.it/) **05/12/2000**
-* [Instagram](https://web.archive.org/web/20110630092743/http://instagram.com/) **20/06/2011**
+* [Apple](https://web.archive.org/web/*/www.apple.com) 
+* [Amazon](https://web.archive.org/web/*/www.amazon.com) 
+* [Facebook](https://web.archive.org/web/*/www.facebook.com) 
+* [eBay](https://web.archive.org/web/*/www.ebay.com) 
+* [Instagram](https://web.archive.org/web/*/www.instagram.com) 

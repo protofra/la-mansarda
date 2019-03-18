@@ -6,7 +6,6 @@ featured_image: "dischi1.jpg"
 categories: ["Musica"]
 description: "Dischi da ascoltare"
 ---
-# Dischi che dovete ascoltare
 
 ### Parliamo un po’ di musica
 

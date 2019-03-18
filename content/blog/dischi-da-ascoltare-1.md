@@ -1,10 +1,10 @@
 ---
-title: "Dischi Da Ascoltare #1"
+title: "Album Da Ascoltare #1"
 date: 2019-03-18T23:30:21+01:00
 draft: false
 featured_image: "dischi1.jpg"
 categories: ["Musica"]
-description: "Dischi da ascoltare"
+description: "Album da ascoltare"
 ---
 
 ### Parliamo un po’ di musica

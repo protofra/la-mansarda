@@ -13,11 +13,11 @@ Ne ascolto tanta, forse troppa, ed è difficile trovare qualcosa di specifico di
 
 Non c’è una logica, o una classifica. Sono semplicemente delle canzoni, o degli album che, per vari motivi, sono finiti nel mio _Spotify_ negli ultimi giorni. 
 
-Ci sono cose molto nuove, ma anche cose meno recenti che solo ora ho recuperato o scoperto. 
+Ci sono album molto nuovi, ma anche altri meno recenti che solo ora ho recuperato o scoperto. 
 
 Insomma, ecco un po’ di cose che dovete ascoltarvi. Perché l’ho detto io. 
 
-P.S. lascio i link, ma poi trovate tutto nella _home_ cliccando sul pulsantone che rimanda alle mie playlist di Spotify.  
+P.S. lascio i link, ma poi trovate tutto nella <a href="https://la-mansarda.com/" target="_blank" rel="nofollow" title="home">_home_ </a>cliccando sul pulsantone che rimanda alle mie playlist di Spotify.  
 
 ### Una lista che nessuno ha chiesto
 

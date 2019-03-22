@@ -2,7 +2,7 @@
 title: "Album Da Ascoltare #1"
 date: 2019-03-18T23:30:21+01:00
 draft: false
-featured_image: "0F648403-7336-4426-AB01-A4D45B10732F.jpg"
+featured_image: "AE24A494-BE30-4431-A6BE-63C55FE4BDEE.JPG"
 categories: ["Musica"]
 description: "Album da ascoltare"
 ---

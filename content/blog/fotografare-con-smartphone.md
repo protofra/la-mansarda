@@ -2,7 +2,7 @@
 title: "5 app per fare foto migliori"
 date: 2019-03-24T21:57:03+01:00
 draft: false
-featured_image: "app-foto.jpg"
+featured_image: "IMG_6563.jpg"
 categories: ["Tech"]
 description: "Applicazioni per modificare foto su iPhone"
 ---

@@ -7,7 +7,7 @@ categories: ["Tech"]
 description: "Applicazioni per modificare foto su iPhone"
 ---
 
-### Fotografare con iPhone
+### Fotografare con lo smartphone
 
 Torniamo a parlare di tecnologia. 
 Da quando esiste, lo smartphone, ha fatto _strage_ di un bel po' di dispositivi tecnologici, riuscendo a racchiudere tutta una serie di funzioni che prima necessitavano di oggetti a parte.  

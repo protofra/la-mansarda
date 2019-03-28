@@ -2,7 +2,7 @@
 title: "Libri che sto leggendo #1"
 date: 2019-03-19T23:41:22+01:00
 draft: false
-featured_image: "IMG_6351.jpg"
+featured_image: "libri1bis.jpg"
 categories: ["Libri"]
 description: "Qualche lettura che consiglio"
 ---

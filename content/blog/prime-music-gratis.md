@@ -1,13 +1,13 @@
 ---
-title: "Come avere Amazon Prime Music Gratis"
+title: "Tre mesi di musica gratis con Amazon"
 date: 2019-03-28T14:51:50+01:00
-draft: true
-featured_image: ""
+draft: false
+featured_image: "IMG_6768.jpg"
 categories: ["Music"]
 description: "L'offerta per avere Amazon Prime Music gratis per 3 mesi"
 ---
 
-### Spotify ti devi spaventare
+### <a href="https://www.amazon.it/b?node=16403871031&tag=protofra-21" target="_blank" rel="nofollow" title="clicca qui"> Clicca Qui! </a>
 
 Ho sempre avuto Spotify. E in realtà, a parte una non felice parentesi con Apple Music, non ho mai cercato altro. 
 

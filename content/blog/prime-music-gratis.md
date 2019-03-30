@@ -16,7 +16,7 @@ Poi, però, mi è arrivata una mail di Amazon che parla di _tre mesi gratis_ del
 
 Inutile girarci intorno, per me, la vera differenza fra Spotify e tutti gli altri è nelle _playlist,_ che sono semplicemente migliori. 
 
-Devo dire, in realtà, che usando Prime Music mi sono accorto che forse mi sbagliavo. O che comunque c'è altro a livello. 
+Devo dire, in realtà, che usando Prime Music mi sono accorto che forse mi sbagliavo. O che comunque c'è altro a livello di Spotify. 
 
 Le playlist di Amazon, infatti, sono curate e precise. 
 

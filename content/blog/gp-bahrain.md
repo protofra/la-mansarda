@@ -11,28 +11,23 @@ description: "La Mercedes vince un fortunato GP del Bahrain"
 Sembra assurdo, eppure questo detto, oggi, è più che mai adatto a spiegare il Gran Premio del Bahrain. Perché la Mercedes, che pure andava piano rispetto alla Ferrari, ha portato a casa una doppietta: la seconda nelle prime due gare. 
 
 ### _Grande Culo_ 
-Toto Wolff ai microfoni di Sky ha spiegato così il risultato della sua squadra. Ed è vero, perché di culo ne hanno avuto parecchio. Però, c’è altro.
+Toto Wolff ai microfoni di Sky ha spiegato così il risultato della sua squadra. Ed è vero, perché di culo ne hanno avuto parecchio. Però c’è altro.
 
-Sicuramente la fortuna non è stata dalla parte della Ferrari oggi. Questo è chiaro. Sicuramente non è stata da quella di Leclerc, che dopo un weekend perfetto deve accontentarsi di un terzo posto frutto di una _safety car_, quella sì, fortunata. 
+Fortunati sia Hamilton che Bottas. Sfortunato, tantissimo Leclerc. 
 
-Un problema alla parte elettrica della PU, questo è quello che ha privato Charles della sua prima vittoria. Che pure era praticamente certa fino a 10 giri dalla fine.
+Un somaro, per non dire altro, Vettel. Perché al netto del problema di Charles, che può succedere anche se non dovrebbe, la Ferrari era la più veloce. Ma anche questa volta vincono gli altri. 
 
-Ma le Ferrari sono due. Che fine ha fatto Vettel?
+Il simpaticissimo Villeneuve dopo la gara ha detto: _di solito [Seb] aspetta Singapore per fare danni. Questa volta ha cominciato subito._ E queste parole di Jaques, più cattive che ironiche, hanno più che un velo di verità. 
 
-Il sempre simpatico Villeneuve dopo la gara ha detto: _di solito [Seb] aspetta Singapore per fare danni. Questa volta ha cominciato subito._ E per quanto le parole di Jaques siano chiaramente ironiche, hanno più che un velo di verità. 
-
-Seb, infatti, nel primo momento di lotta con Hamilton di questa stagione, ha pensato bene di riprendere le vecchie abitudini, andando a _girarsi_ da solo in mezzo alla pista. 
+Seb, infatti, nel primo momento di lotta con Hamilton di questa stagione, ha pensato bene di riprendere le vecchie abitudini, andando a _girarsi_ da solo in mezzo alla pista. Lasciando tutti, Ferrari compresa, con un po' di interrogativi. 
 
 ### Mission Spinnow
-Si scherza, eh. Voglio bene a Seb. Però, insomma… Possibile che sia sempre lui quello che si gira in mezzo alla pista? Nemmeno Maldonado dei tempi d’oro. 
+Si scherza, eh. Voglio bene a Seb. Però, insomma… Possibile che sia sempre lui quello che si gira in mezzo alla pista? Nemmeno il Maldonado dei tempi d’oro. 
 
-Fatto sta che dopo l’errore, Ham si è trovato secondo, Bottas terzo e questo, unito alla solita sfida della Rossa, gli ha regalato la seconda doppietta dell’anno. 
-
-Sono ancora incazzato, quindi trovare del buono in questa gara è difficile. Eppure, c’è. 
-E si chiama Charles Leclerc. 
+Fatto sta che dopo l’errore, Ham si è trovato secondo e Bottas terzo. Una situazione in cui non ci si doveva trovare e che poco ha a che fare con la sfortuna che dopo, cieca, si è abbattuta sul povero Leclerc. Privandolo di una vittoria più che meritata.
 
 ### Charles our saviour?
-Nonostante il problema e la grande amarezza, Leclerc ha dato prova di essere veloce. Anzi, velocissimo. Non solo, anche la Ferrari - sempre nonostante il problema - ha dato prova di essere davvero _mezzo secondo davanti,_ come dicevano Ham e Toto. 
+Nonostante il problema e la grande amarezza, ci sono due cose positive. La prima si chiama Charles Leclerc, che ha dato prova di essere veloce. Anzi, velocissimo. La seconda è la SF90 che, problema a parte, ha dato prova di essere davvero _mezzo secondo davanti,_ come dicevano Ham e Toto. 
 
 Fatto sta che puoi essere pure il più veloce, ma se alla fine non ci arrivi, vai da poche parti. 
 

@@ -1,7 +1,7 @@
 ---
 title: "Gp Bahrain: chi va piano va sano e va lontano."
 date: 2019-03-31T22:32:24+02:00
-draft: true
+draft: false
 featured_image: "gpbahrain.jpg"
 categories: ["Motori"]
 description: "La Mercedes vince un fortunato GP del Bahrain"

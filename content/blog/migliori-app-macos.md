@@ -1,7 +1,7 @@
 ---
 title: "Migliori App per MacOS"
 date: 2019-04-17T15:11:30+02:00
-draft: true
+draft: false
 featured_image: "8A5EA3DF-A04D-4FF9-B3C0-0FBB935F116C.JPG"
 categories: ["Tech"]
 description: "Le applicazioni più utili per MacOS"

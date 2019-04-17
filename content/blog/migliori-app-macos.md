@@ -40,9 +40,6 @@ Per visualizzare il calendario su Mac ci sono due alternative: browser o la app 
 
 Si trova <a href="https://www.mowglii.com/itsycal/" target="_blank" rel="nofollow" title="qui"> qui. </a> 
 
-
-
-
 #### Rocket
 
 Questa vale solo per chi di voi ha un Mac con TouchBar. I Pro dal 2016 in poi, per intenderci. 

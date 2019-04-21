@@ -1,7 +1,7 @@
 ---
 title: "Alosi - 1985"
 date: 2019-04-22T00:36:53+02:00
-draft: true
+draft: false
 featured_image: "1985+copertina+def.jpg"
 categories: ["Musica"]
 description: "L'album di esordio di Alosi: 1985"

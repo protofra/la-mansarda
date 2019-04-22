@@ -8,7 +8,7 @@ description: "L'album di esordio di Alosi: 1985"
 ---
 
 ### Due parole sull’album appena uscito
-Sono un fan del Pan del Diavolo: sono affezionato alle loro canzoni e alla voce di Alosi. In un certe senso, sapevo già che il suo album da solista mi sarebbe piaciuto. Allo stesso tempo, però, mi aspettavo qualcosa di _diverso_. E 1985 non ha tradito le mie attese. 
+Sono un fan del Pan del Diavolo: sono affezionato alle loro canzoni e alla voce di Alosi. In un certo senso, sapevo già che il suo album da solista mi sarebbe piaciuto. Allo stesso tempo, però, mi aspettavo qualcosa di _diverso_. E 1985 non ha tradito le mie attese. 
 
 Se prima _elettrica era la spinta,_ adesso elettriche sono le chitarre. 
 

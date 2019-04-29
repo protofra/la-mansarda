@@ -10,7 +10,7 @@ description: "Applicazioni per modificare foto su iPhone"
 ### Fotografare con lo smartphone
 
 Torniamo a parlare di tecnologia. 
-Da quando esiste, lo smartphone, ha fatto _strage_ di un bel po' di dispositivi tecnologici, riuscendo a racchiudere tutta una serie di funzioni che prima necessitavano di oggetti a parte.  
+Da quando esiste, lo smartphone ha fatto _strage_ di un bel po' di dispositivi tecnologici, riuscendo a racchiudere tutta una serie di funzioni che prima necessitavano di oggetti a parte.  
 
 Ha eliminato il telefono che _telefonava e basta._ Ha fatto fuori i naviagotori _a là_ TomTom. E poi, ha eliminato quasi del tutto le piccole macchine fotografiche: le _compatte_. E una delle cose che faccio di più con il mio iPhone è proprio _fotografare._ 
 Non sono un professionista e le mie capacità sono tutto sommato limitate, per questo lo smartphone è un compagno perfetto quando _mi sale l’Oliviero Toscani._ 

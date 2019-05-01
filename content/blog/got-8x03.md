@@ -7,7 +7,7 @@ description: "Cosa è successo in Game of Thrones 8x03"
 categories: ["Serie Tv"]
 ---
 
-# Got 8x04 ci sono riusciti
+# Ci sono riusciti ancora
 Allora, allora, ci sono un bel po’ di cose di cui parlare. Intanto, lo dico subito: per me è stata una puntata incredibile. E sottolineo **incredibile!**
 Naturalmente, come per tutte le cose, non è perfetta. Però, nonostante tutto, il risultato è un episodio bellissimo e veramente bello da vedere dal punto di vista cinematografico. 
 

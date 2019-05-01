@@ -5,4 +5,4 @@ draft: false
 featured_image: "spacenc.jpg"
 ---
 
-[Recensione] (https://www.techonair.it/anker-soundcore-space-nc-recensione/)
+<a href="https://www.techonair.it/anker-soundcore-space-nc-recensione/" target="_blank" rel="nofollow" title="home">Recensione.</a>

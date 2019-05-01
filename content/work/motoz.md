@@ -5,4 +5,4 @@ draft: false
 featured_image: "motoz3.jpg"
 ---
 
-[Recensione] (https://www.techonair.it/moto-z3-play-unico-non-perfetto/)
+<a href="https://www.techonair.it/moto-z3-play-unico-non-perfetto/" target="_blank" rel="nofollow" title="home">Recensione.</a>

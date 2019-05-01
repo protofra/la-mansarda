@@ -5,4 +5,4 @@ draft: false
 featured_image: "freewrite.png"
 ---
 
-[Recensione] (https://www.techonair.it/recensione-freewrite-astrohaus/)
+<a href="https://www.techonair.it/recensione-freewrite-astrohaus/" target="_blank" rel="nofollow" title="home">Recensione.</a>

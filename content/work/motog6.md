@@ -5,4 +5,4 @@ draft: false
 featured_image: "motog6.jpg"
 ---
 
-[Recensione] (https://www.techonair.it/moto-g6-plus-recensione/)
+<a href="https://www.techonair.it/moto-g6-plus-recensione/" target="_blank" rel="nofollow" title="home">Recensione.</a>

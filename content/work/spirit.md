@@ -5,4 +5,4 @@ draft: false
 featured_image: "spirit.jpg"
 ---
 
-[Recensione] (https://www.techonair.it/anker-soundcore-spirit-recensione/)
+<a href="https://www.techonair.it/anker-soundcore-spirit-recensione/" target="_blank" rel="nofollow" title="home">Recensione.</a>

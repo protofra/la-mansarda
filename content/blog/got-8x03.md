@@ -9,7 +9,7 @@ categories: ["Serie Tv"]
 
 # Ci sono riusciti ancora
 Allora, allora, ci sono un bel po’ di cose di cui parlare. Intanto, lo dico subito: per me è stata una puntata incredibile. E sottolineo **incredibile!**
-Naturalmente, come per tutte le cose, non è perfetta. Però, nonostante tutto, il risultato è un episodio bellissimo e veramente bello da vedere dal punto di vista cinematografico. 
+Naturalmente, come per tutte le cose, non è perfetta. Però, nonostante tutto, il risultato è un episodio fortissimo e veramente bello da vedere dal punto di vista cinematografico. 
 
 # ATTENZIONE SPOILER GIGANTI
 Bene, il disclaimer sugli spoiler l’ho fatto, quindi si prosegue. 

@@ -6,7 +6,7 @@ featured_image: "got8x04.jpg"
 description: "Cosa è successo nell'ultima puntata di Game of Thrones"
 categories: ["Serie Tv"]
 ---
-# Game of Thrones 8x04
+
 Avevo pensato di commentare questa puntata dando dei voti ai vari personaggi. Le pagello di Game of Thrones, diciamo. Però, dopo averla vista mi sono reso conto che ci sono discorsi un po’ più seri da fare. 
 
 ### A Song of Ice and Fire vs Game of Thrones

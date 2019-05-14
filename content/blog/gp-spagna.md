@@ -6,7 +6,7 @@ featured_image: "gp-spagna.jpg"
 categories: ["Motori"]
 description: "La Mercedes vince il GP di Spagna"
 ---
-# GP Spagna - il mistero della SF90
+
 Sembra il titolo di un giallo e in effetti ha le caratteristiche di una storia alla Agatha Christie. Però, ahimè, è tutto vero. 
 
 La bellissima e tanto acclamata SF90 è un mistero. Ma di quelli proprio intricati, complessi che fanno andare in pappa il cervello. Un mistero che nessuno riesce a svelare, a partire dagli stessi uomini Ferrari. 

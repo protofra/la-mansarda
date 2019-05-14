@@ -1,7 +1,7 @@
 ---
 title: "GP Spagna - Il mistero della SF90"
 date: 2019-05-14T22:42:02+02:00
-draft: false
+draft: true
 featured_image: "gp-spagna.jpg"
 categories: ["Motori"]
 description: "La Mercedes vince il GP di Spagna"

@@ -1,5 +1,5 @@
 ---
-title: "Game of Thrones 8x06"
+title: "Game of Thrones - 8x06"
 date: 2019-05-21T16:42:47+02:00
 draft: false
 featured_image: "Game-of-Thrones-Finale-3.jpg"

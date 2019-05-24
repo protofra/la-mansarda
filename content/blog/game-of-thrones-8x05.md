@@ -1,5 +1,5 @@
 ---
-title: "Game of Thrones 8x05"
+title: "Game of Thrones - 8x05"
 date: 2019-05-17T23:23:29+02:00
 draft: false
 featured_image: "got8x05.jpg"

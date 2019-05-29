@@ -1,5 +1,5 @@
 ---
-title: "GP Montecarlo - Fra Noia ed emozioni"
+title: "GP Montecarlo - Emozioni e noia"
 date: 2019-05-29T16:06:40+02:00
 draft: false
 featured_image: "gp-montecarlo.jpg"

@@ -54,3 +54,4 @@ Questo significa un paio di cose: **Haas a punti; Hamilton a punti - bravo, Valt
 E per quanto io sia dispiaciuto per l’Alfa Romeo questa notizia è bellissima. Dopo tutti gli escrementi presi da inizio anno, dopo tutti gli insulti e i vari *“Russel lo sta asfaltando; confronto impietoso; blabla”* i punti li fa lui: **Robert.**
 
 Direi che, per questo, si merita **10 e Lode.** Dai, Robert. 
+

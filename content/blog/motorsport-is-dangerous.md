@@ -24,4 +24,4 @@ Credo che le parole migliori per descrivere l’intera vicenda le abbia trovate 
 
 **_<p style=“text-align: center;”> “Anthoine is a hero  […] for taking the risk he did to chase his dreams.” </p>_**
 
-Domani la gara di F1 si correrà. E ancora una volta, abbassandosi la visiera, i piloti, i nostri eroi, guarderanno in faccia la morte inseguendo il loro e il nostro sogno. 
+Domani la gara di F1 si correrà. E ancora una volta, abbassando la visiera, i piloti, i nostri eroi, guarderanno in faccia la morte inseguendo il loro e il nostro sogno. 

@@ -3,7 +3,7 @@ title: "Tre mesi di musica gratis con Amazon"
 date: 2019-03-28T14:51:50+01:00
 draft: false
 featured_image: "IMG_6768.jpg"
-categories: ["Music"]
+categories: ["Musica"]
 description: "L'offerta per avere Amazon Prime Music gratis per 3 mesi"
 ---
 

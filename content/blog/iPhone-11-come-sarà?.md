@@ -36,7 +36,7 @@ Sempre per quanto riguarda il retro, nel caso di iPhone 11, si parla anche di nu
 Passando alla parte frontale, ahimè, non ci sarà nessuna novità **visibile.** Stesso notch e stesso display, per intenderci. *Sotto il cofano,* però, mancherà il **3D touch,** sostituito definitivamente dall’haptic feedback, come su Apple Watch. Sarò forse l’unico a sentirne la mancanza. 
 
 
-### Pencil for iPhone?*
+### Pencil for iPhone?
 Le novità di iPhone saranno quasi sicuramente queste, anche se non è da escludere un clamoroso supporto ad Apple Pencil, che arriverebbe, quindi, in versione iPhone. 
 
 Non so bene come prendere quest’ultimo rumor - di questo si tratta, non di un *leak*. Ho sempre ammirato il Note, quindi chissà che Apple non possa fare qualcosa di simile. 

@@ -1,5 +1,5 @@
 ---
-title: "Gp Russia Le Pagelle"
+title: "Gp Russia - Le Pagelle"
 date: 2019-10-01T20:40:59+02:00
 draft: false
 featured_image: "gp-russia.jpg"

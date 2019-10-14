@@ -23,7 +23,7 @@ Ora che ci penso, comunque, i governi potrebbero trovare il modo di renderlo com
 In effetti forse sarebbe meglio averlo ma tipo super-potere. Meglio che volare: mi immagino quanti moscerini si becca Superman ogni volta che va in giro. Il teletrasporto sarebbe sicuramente più efficiente e anche discreto. Senza contare che pur volando, a meno che non riesca ad andare alla velocità della luce gli spostamenti sarebbero comunque lunghetti: io invece voglio arrivare a destinazione nel tempo di uno starnuto. 
 Uno starnuto di quelli veloci, però. 
 
-Di seguito una *visual representation* di me con il teletrasporto nel momento in cui qualcuno mi chiede di fare qualcosa. 
+Di seguito una *visual representation* di me che fuggo dalle mie responsabilità.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l2SpWj9gta1lvzllu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/southparkgifs-l2SpWj9gta1lvzllu">via GIPHY</a></p>
 

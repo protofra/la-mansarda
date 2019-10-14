@@ -2,7 +2,7 @@
 title: "Teletrasporto"
 date: 2019-10-14T21:49:48+02:00
 draft: false
-featured_image: "Unknown.jpeg"
+featured_image: "pillole.jpeg"
 categories: ["Pillole"]
 ---
 

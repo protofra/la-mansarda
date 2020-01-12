@@ -7,6 +7,6 @@ featured_image: "iphonex-video.JPG"
 
 Ho iniziato a collaborare con [Evosmart.it.](https://www.evosmart.it)
 
-[Questo è il primo video](https://youtu.be/jkDezLDnIac) fatto insieme, si parla del iPhone X. 
+[Questo è il primo video](https://youtu.be/jkDezLDnIac) fatto insieme, si parla del mio iPhone X.
 
 

@@ -13,11 +13,11 @@ Era da tempo che volevamo smettere di spacciarci i dischi a vicenda e cominciare
 
 Come avrete capito Spinnit è un podcast in cui si parla di musica. Per ogni puntata scegliamo due dischi a testa e proviamo a raccontarli, raccontando allo stesso tempo anche noi stessi. Sì, perché dietro ogni disco c’è una piccola parte di noi che vogliamo condividere con il pubblico immenso e sconfinato di _internet._
 
-Le puntate saranno disponibili su [Anchor.fm](https://anchor.fm/spinnit), Spotify, iTunes e tutte le varie piattaforme di streaming. Le puntate saranno le stesse e potrete quindi sentirle dove meglio preferite. Ove possibile cercheremo di inserire all'interno della puntata parte o la totalità delle canzoni di cui parliamo.
+Le puntate saranno disponibili su [Anchor.fm](https://anchor.fm/spinnit), Spotify, iTunes e tutte le varie piattaforme di streaming, quindi potrete sentirle dove meglio preferite. Ove possibile cercheremo di inserire direttamente all'interno della puntata le canzoni di cui parliamo, così da facilitare la fruzione da parte vostra.
 
-In ogni caso, comunque, metteremo a disposizione per ogni puntata una playlist di Spotify con tutti i brani e gli artisti a cui abbiamo fatto riferimento più link vari ed eventuali che possano essere utili dopo l'ascolto.
+In ogni caso, comunque, metteremo a disposizione per ogni puntata una playlist di Spotify con tutti i brani e gli artisti di cui abbiamo parlato, più link vari ed eventuali che possano essere utili dopo l'ascolto.
 
-Per ogni puntata, poi, qui sarà disponibile una pagina con una descrizione più o meno dettagliata di quello di cui parleremo.
+Per ogni puntata, poi, [qui](https://la-mansarda.com) sarà disponibile una pagina con una descrizione più o meno dettagliata di quello di cui parleremo.
 
 Per quanto riguarda i social, cioè instagram, ci trovate su [@spinnit](https://www.instagram.com/spinn.it/?hl=it) e sui nostri profili personali [@protofra](https://www.instagram.com/protofra/?hl=it) e [@franznardi.](https://www.instagram.com/franznardi/?hl=it) 
 

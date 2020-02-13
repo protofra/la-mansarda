@@ -5,6 +5,8 @@ draft: false
 featured_image: "tvSUBPV.jpg"
 ---
 
+<iframe src="https://anchor.fm/spinnit/embed/episodes/Spinnit--Episodio-2-eap1ia/a-a1ekf5g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Spinnit Episodio 3 inizia con un breve ma intenso **rant** da parte di [@franznardi](https://www.instagram.com/franznardi/?hl=it) nei confronti di un famoso **Festival nazional popolare**, perché: _se possiamo scegliere cosa ascoltare, perché optare per qualcosa di scadente?_
 
 La puntata, poi, prosegue con il classico format, questa volta in maniera più veloce del solito. Ci siamo svegliati? Forse. 

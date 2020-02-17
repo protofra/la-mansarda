@@ -1,10 +1,10 @@
 {
-    "title" : "Musica",
+    "title" : "Podcast",
     "services" : [
       {
         "icon" : "music",
-        "title" : "Cosa ascolto",
-        "description" : "Le mie playlist di Spotify"
+        "title" : "Spinnit",
+        "description" : "Ascolta il mio podcast"
       }
       
     ]

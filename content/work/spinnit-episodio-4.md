@@ -7,7 +7,7 @@ featured_image: "spinnit-intro.JPG"
 
 <iframe src="https://anchor.fm/spinnit/embed/episodes/Spinnit--Episodio-4-eav111" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-**Skiantos, Aquarama, Bud Spencer Blues Explotion e Be Forest.** 
+**Skiantos, Aquarama, Bud Spencer Blues Explosion e Be Forest.** 
 
 Questi gli artisti della puntata quattro di Spinnit. Puntata nella quale cercheremo di spiegare, come al solito, perché abbiamo apprezzato questi quattro, bellissimi, album e in cui proveremo a rispondere ad una domanda particolare sulla musica italiana. 
 

@@ -3,7 +3,6 @@ title: "Spinnit - Episodio 4"
 date: 2020-02-20T14:25:59+01:00
 draft: false
 featured_image: "skiantos.png"
-description: ""
 ---
 
 <iframe src="https://anchor.fm/spinnit/embed/episodes/Spinnit--Episodio-4-eav111" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>

@@ -1,6 +1,6 @@
 baseURL = "https://la-mansarda.com"
 languageCode = "IT-IT"
-title = "Protofra.me"
+title = "La Mansarda"
 theme = "uilite"
 paginate = 10
 enableRobotsTXT = true
